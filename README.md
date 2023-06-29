@@ -11,6 +11,11 @@ en Química con orientación en Química Física de la **FCQ (UNC)**.
 0. **python**: Introducción a la programación en Python.
 
 
+### [Guías](https://github.com/fernandezfran/metcomp/tree/main/guias)
+
+0. **guia0**: Ejercicios de introducción.
+
+
 ### [Apunte](https://github.com/fernandezfran/metcomp/tree/main/apunte)
 
 1. **OMB**: Operaciones matemáticas básicas (diferenciación, cuadratura, búsqueda 
