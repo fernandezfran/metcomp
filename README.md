@@ -6,11 +6,10 @@ en Química con orientación en Química Física de la **FCQ (UNC)**.
 
 ## Contenidos
 
-### [Tutoriales](https://github.com/fernandezfran/metcomp/tree/main/tutoriales)
+### [Apunte](https://github.com/fernandezfran/metcomp/tree/main/apunte)
 
-0. **markdown**.
-1. **python**: Introducción a la programación en Python.
-2. **matplotlib**: Un gráfico simple en Python.
+1. **OMB**: Operaciones matemáticas básicas (diferenciación, cuadratura, búsqueda 
+de raíces).
 
 
 ### [Guías](https://github.com/fernandezfran/metcomp/tree/main/guias)
@@ -18,7 +17,9 @@ en Química con orientación en Química Física de la **FCQ (UNC)**.
 0. **guia0**: Ejercicios de introducción.
 
 
-### [Apunte](https://github.com/fernandezfran/metcomp/tree/main/apunte)
+### [Tutoriales](https://github.com/fernandezfran/metcomp/tree/main/tutoriales)
 
-1. **OMB**: Operaciones matemáticas básicas (diferenciación, cuadratura, búsqueda 
-de raíces).
+0. **markdown**.
+1. **python**: Introducción a la programación en Python.
+2. **matplotlib**: Un gráfico simple en Python.
+3. **numpy**: Una primera aproximación a NumPy.
