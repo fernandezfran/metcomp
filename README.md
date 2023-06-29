@@ -10,6 +10,7 @@ en Química con orientación en Química Física de la **FCQ (UNC)**.
 
 0. **markdown**.
 1. **python**: Introducción a la programación en Python.
+2. **matplotlib**: Un gráfico simple en Python.
 
 
 ### [Guías](https://github.com/fernandezfran/metcomp/tree/main/guias)
