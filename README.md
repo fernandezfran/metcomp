@@ -14,6 +14,7 @@ en Química con orientación en Química Física de la **FCQ (UNC)**.
 ### [Guías](https://github.com/fernandezfran/metcomp/tree/main/guias)
 
 0. [guia0](https://github.com/fernandezfran/metcomp/blob/main/guias/guia0.ipynb): Ejercicios de introducción.
+1. [guia1](https://github.com/fernandezfran/metcomp/blob/main/guias/guia1.ipynb): Operaciones matemáticas básicas.
 
 
 ### [Tutoriales](https://github.com/fernandezfran/metcomp/tree/main/tutoriales)
