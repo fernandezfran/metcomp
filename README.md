@@ -28,3 +28,4 @@ de Joshua Izaac y Jingbo Wang.
     * [datos](https://github.com/fernandezfran/metcomp/blob/main/guias/datos.txt) para el simplex
     * [script del simplex](https://github.com/fernandezfran/metcomp/blob/main/guias/simplex.ipynb)
 2. [guia2](https://github.com/fernandezfran/metcomp/blob/main/guias/guia2.ipynb): Ecuaciones diferenciales ordinarias.
+3. [guia3](https://github.com/fernandezfran/metcomp/blob/main/guias/guia3.ipynb): Condiciones de contorno en las fronteras.
