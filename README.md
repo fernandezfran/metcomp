@@ -4,10 +4,9 @@ Repositorio de la especialidad **Métodos Computacionales** para la Licenciatura
 en Química con orientación en Química Física de la **Universidad Nacional de Córdoba
 (FCQ)**.
 
-En las guías se encuentra la resolución de los problemas expuesta la última clase de
-la materia, una vez que ya resolvieron todos los ejercicios de programación usando
-Python puro. Esto vendría a ser como los recuadros de `Reusing the Wheel` del libro 
-[Computational Quantum Mechanics](https://link.springer.com/book/10.1007/978-3-319-99930-2) 
+Resolución de los problemas de las guías una vez que ya resolvieron los
+ejercicios usando Python puro. Esto vendría a ser como los recuadros de 
+`Reusing the Wheel` del libro [Computational Quantum Mechanics](https://link.springer.com/book/10.1007/978-3-319-99930-2) 
 de Joshua Izaac y Jingbo Wang.
 
 
