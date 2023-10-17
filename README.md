@@ -23,9 +23,7 @@ de Joshua Izaac y Jingbo Wang.
 ### [Guías](https://github.com/fernandezfran/metcomp/tree/main/guias)
 
 0. [guia0](https://github.com/fernandezfran/metcomp/blob/main/guias/guia0.ipynb): Ejercicios de introducción.
-1. [guia1](https://github.com/fernandezfran/metcomp/blob/main/guias/guia1.ipynb): Operaciones matemáticas básicas.
-    * [datos](https://github.com/fernandezfran/metcomp/blob/main/guias/datos.txt) para el simplex
-    * [script del simplex](https://github.com/fernandezfran/metcomp/blob/main/guias/simplex.ipynb)
+1. [guia1](https://github.com/fernandezfran/metcomp/blob/main/guias/guia1.ipynb): Operaciones matemáticas básicas ([datos](https://github.com/fernandezfran/metcomp/blob/main/guias/datos.csv) para el simplex).
 2. [guia2](https://github.com/fernandezfran/metcomp/blob/main/guias/guia2.ipynb): Ecuaciones diferenciales ordinarias.
 3. [guia3](https://github.com/fernandezfran/metcomp/blob/main/guias/guia3.ipynb): Condiciones de contorno en las fronteras.
 3. [guia4](https://github.com/fernandezfran/metcomp/blob/main/guias/guia4.ipynb): Números aleatorios.
