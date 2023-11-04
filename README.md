@@ -28,3 +28,4 @@ de Joshua Izaac y Jingbo Wang.
 3. [guia3](https://github.com/fernandezfran/metcomp/blob/main/guias/guia3.ipynb): Condiciones de contorno en las fronteras.
 4. [guia4](https://github.com/fernandezfran/metcomp/blob/main/guias/guia4.ipynb): Números aleatorios.
 5. [guia5](https://github.com/fernandezfran/metcomp/blob/main/guias/guia5.ipynb): Modelo de Ising 1D (2D explicado con [bici](https://github.com/fernandezfran/bici/)).
+6. guia6: Dinámica molecular.
