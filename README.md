@@ -2,7 +2,7 @@
 
 Repositorio de la especialidad **Métodos Computacionales** para la Licenciatura
 en Química con orientación en Química Física de la **Universidad Nacional de Córdoba
-(FCQ)**.
+(FCQ)** que dicté en el segundo cuatrimestre del 2023.
 
 Resolución de los problemas de las guías una vez que ya resolvieron los
 ejercicios usando Python puro. Esto vendría a ser como los recuadros de 
